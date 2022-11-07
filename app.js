@@ -29,7 +29,7 @@ class WeatherCard {
         break;
     }
 
-    document.body.style.background = `url('img/${weather}.jpg') no-repeat center center/cover`;;
+    document.body.style.background = `url('img/${weather}.jpg') no-repeat center center/cover`;
 
     const card = `
     <div class="card">
